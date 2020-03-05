@@ -1,5 +1,5 @@
 # Controller
-Controller to handle button input and control the RGB led strip(s)
+Arduino controller receiving serial commands to control RGB led strip(s)
 
 # Requirements:
 - [Running the BabyMediaBox kiosk](https://github.com/BabyMediaBox/kiosk)
